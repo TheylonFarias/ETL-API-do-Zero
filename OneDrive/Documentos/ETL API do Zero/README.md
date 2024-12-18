@@ -1,6 +1,6 @@
 # ETL com Python e Requests
 
-Este projeto implementa um pipeline simples de **ETL** (Extract, Transform, Load) utilizando **Python** e a biblioteca `requests`. O objetivo é extrair dados de uma API, realizar transformações e salvar os resultados em um formato processável, como um arquivo CSV ou banco de dados.
+Este projeto implementa um pipeline de **ETL** (Extract, Transform, Load) utilizando **Python** e a biblioteca `requests`. O objetivo é extrair dados de uma API, realizar transformações e salvar os resultados em um formato processável, em um banco de dados.
 
 ## Estrutura do Projeto
 
