@@ -97,7 +97,7 @@ def load_data(df, output_path="data/processed_data.csv"):
 
 ## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+Contribuições serão bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 ## Licença
 
